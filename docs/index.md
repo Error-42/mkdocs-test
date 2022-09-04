@@ -22,4 +22,4 @@ $$a^2 + b^2 = c^2$$
 
 *Why doesn't it work?*
 
-[Triangle inequality](triangle-inequality.md)
+[Triangle inequality v2](triangle-inequality.md)
